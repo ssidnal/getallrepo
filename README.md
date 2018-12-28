@@ -1,5 +1,5 @@
 # getallrepo
-Shell script to get all repositories of user account from BitBucket
+Shell script to get all repositories of user account from BitBucket on WINDOWS machine
 
 Steps to use:
   1. Please enable ssh on your bitbucket before you use this.
