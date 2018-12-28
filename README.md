@@ -1,4 +1,4 @@
-# getallrepo
+# Purpose of this script
 
 *Shell script to get all repositories of user account from BitBucket on WINDOWS machine*
 
