@@ -8,5 +8,6 @@
   3. Copy above file jq.exe to your %ProgramFiles%\Git\mingw64\bin\
   4. Download *getAllRepos.sh* and paste in the folder where you want to clone all repositories of your bitbucket account. 
   5. Open git bash here and run below command to clone all your repositories. 
-      ./getAllRepos.sh [username] [password]  
+      
+      *./getAllRepos.sh [username] [password]
     
