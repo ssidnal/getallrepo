@@ -4,7 +4,9 @@
 
 # Steps to use:
   1. Please enable ssh on your bitbucket before you use this.
-  2. Download jq utility from https://stedolan.github.io/jq/download/ and set env variable to jq.exe (rename downloaded file to jq.exe)
-  3. Go to folder where you want to clone all repositories of your account and download getAllRepos.sh file from this repository and run        below command to clone all your repositories.
+  2. Download jq utility from https://stedolan.github.io/jq/download/ and rename downloaded file to jq.exe.
+  3. Copy above file jq.exe to your %ProgramFiles%\Git\mingw64\bin\
+  4. Download *getAllRepos.sh* and paste in the folder where you want to clone all repositories of your bitbucket account. 
+  5. Open git bash here and run below command to clone all your repositories. 
       ./getAllRepos.sh [username] [password]  
     
